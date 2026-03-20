@@ -22,7 +22,7 @@
 ![](https://img.shields.io/badge/GIT-5C2D91?style=for-the-badge&logo=git&logoColor=white)
 
 ### Development methodologies that I use:
-![Methodology](https://img.shields.io/badge/Agile-blue?style=for-the-badge&logo=behance&logoColor=white)
-![](https://img.shields.io/badge/Adobe%20ITIL-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+![Methodology](https://img.shields.io/badge/Agile-blue?style=for-the-badge&logo=Agile&logoColor=white)
+![](https://img.shields.io/badge/Adobe%20ITIL-31A8FF?style=for-the-badge&logo=Itil&logoColor=black)
 
 ![Vitorio GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=clebervitorio&theme=blue-green)
