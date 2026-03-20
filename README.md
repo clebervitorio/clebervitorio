@@ -5,7 +5,7 @@
 
 ### Technologies I've used most in my projects:
 
-![COBOL](https://img.shields.io/badge/COBOL-00599C?style=for-the-badge&logo=cobol5&logoColor=white)
+![](https://img.shields.io/badge/COBOL-00599C?style=for-the-badge&logo=cobol5&logoColor=white)
 ![](https://img.shields.io/badge/CICS-F7DF1E?style=for-the-badge&logo=cics&logoColor=black)
 ![](https://img.shields.io/badge/JCL-777BB4?style=for-the-badge&logo=jcl&logoColor=black)
 ![](https://img.shields.io/badge/DB2-005C84?style=for-the-badge&logo=db2&logoColor=black)
