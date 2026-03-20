@@ -5,14 +5,14 @@
 
 ### Technologies I've used most in my projects:
 
-![Html](https://img.shields.io/badge/COBOL-00599C?style=for-the-badge&logo=cobol5&logoColor=white)
+![COBOL](https://img.shields.io/badge/COBOL-00599C?style=for-the-badge&logo=cobol5&logoColor=white)
 ![](https://img.shields.io/badge/CICS-F7DF1E?style=for-the-badge&logo=cics&logoColor=black)
 ![](https://img.shields.io/badge/JCL-777BB4?style=for-the-badge&logo=jcl&logoColor=black)
 ![](https://img.shields.io/badge/DB2-005C84?style=for-the-badge&logo=db2&logoColor=black)
 ![](https://img.shields.io/badge/Oracle-3776AB?style=for-the-badge&logo=oracle&logoColor=black)
 ![](https://img.shields.io/badge/CSS-5C2D91?&style=for-the-badge&logo=css3&logoColor=black)
 ![](https://img.shields.io/badge/JavaScript-E44C30?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/HTML-31A8FF?style=for-the-badge&logo=html&logoColor=black)
+![Html](https://img.shields.io/badge/HTML-31A8FF?style=for-the-badge&logo=html&logoColor=black)
 
 ### Technologies in which I have basic knowledge:
 ![Python](https://img.shields.io/badge/Python-00599?style=for-the-badge&logo=phython&logoColor=white)
