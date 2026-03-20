@@ -18,7 +18,7 @@
 ![Python](https://img.shields.io/badge/Python-00599?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/CSharp-777BB4?style=for-the-badge&logo=csharp&logoColor=white)
 ![](https://img.shields.io/badge/Kotlin-005C84?style=for-the-badge&logo=kotlin&logoColor=white)
-![](https://img.shields.io/badge/Visual%20Studio-3776AB?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![](https://img.shields.io/badge/Visual%20Studio-3776AB?style=for-the-badge&logo=microsoft&logoColor=white)
 ![](https://img.shields.io/badge/GIT-5C2D91?style=for-the-badge&logo=git&logoColor=white)
 
 ### Development methodologies that I use:
