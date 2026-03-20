@@ -15,12 +15,11 @@
 ![](https://img.shields.io/badge/HTML-31A8FF?style=for-the-badge&logo=html&logoColor=black)
 
 ### Technologies in which I have basic knowledge:
-![Knowledge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/Python-777BB4?style=for-the-badge&logo=phython&logoColor=white)
-![](https://img.shields.io/badge/C#-005C84?style=for-the-badge&logo=csharp&logoColor=white)
-![](https://img.shields.io/badge/Kotlin-3776AB?style=for-the-badge&logo=kotlin&logoColor=white)
-![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Knowledge]![](https://img.shields.io/badge/Python-00599?style=for-the-badge&logo=phython&logoColor=white)
+![](https://img.shields.io/badge/C#-777BB4?style=for-the-badge&logo=csharp&logoColor=white)
+![](https://img.shields.io/badge/Kotlin-005C84?style=for-the-badge&logo=kotlin&logoColor=white)
+![](https://img.shields.io/badge/Visual_Studio-3776AB?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![](https://img.shields.io/badge/GIT-5C2D91?style=for-the-badge&logo=git&logoColor=white)
 
 ### Development methodologies that I use:
 ![Methodology](https://img.shields.io/badge/Agile-blue?style=for-the-badge&logo=behance&logoColor=white)
