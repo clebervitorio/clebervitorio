@@ -15,7 +15,7 @@
 ![Html](https://img.shields.io/badge/HTML-31A8FF?style=for-the-badge&logo=html5&logoColor=black)
 
 ### Technologies in which I have basic knowledge:
-[![Python](https://img.shields.io/badge/Python-00599?style=for-the-badge&logo=python&logoColor=white)]
+![Python](https://img.shields.io/badge/Python-00599?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/CSharp-777BB4?style=for-the-badge&logo=csharp&logoColor=white)
 ![](https://img.shields.io/badge/Kotlin-005C84?style=for-the-badge&logo=kotlin&logoColor=white)
 ![](https://img.shields.io/badge/Visual%20Studio-3776AB?style=for-the-badge&logo=visual%20studio&logoColor=white)
