@@ -12,7 +12,7 @@
 ![](https://img.shields.io/badge/Oracle-3776AB?style=for-the-badge&logo=oracle&logoColor=black)
 ![](https://img.shields.io/badge/CSS-5C2D91?&style=for-the-badge&logo=css&logoColor=black)
 ![](https://img.shields.io/badge/JavaScript-E44C30?style=for-the-badge&logo=javascript&logoColor=black)
-![Html](https://img.shields.io/badge/HTML-31A8FF?style=for-the-badge&logo=html5&logoColor=black)
+![](https://img.shields.io/badge/HTML-31A8FF?style=for-the-badge&logo=html5&logoColor=black)
 
 ### Technologies in which I have basic knowledge:
 ![Python](https://img.shields.io/badge/Python-00599?style=for-the-badge&logo=python&logoColor=white)
