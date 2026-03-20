@@ -1,7 +1,7 @@
 ## Software Development at BYU-Pathway 
 
 ### Hello! I am Cleber Vitorio!✋
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=In&logoColor=white)](https://www.linkedin.com/in/cleber-vitorio-0345327b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleber-vitorio-0345327b/)
 
 ### Technologies I've used most in my projects:
 
