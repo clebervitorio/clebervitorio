@@ -23,6 +23,6 @@
 
 ### Development methodologies that I use:
 ![Methodology](https://img.shields.io/badge/Agile-blue?style=for-the-badge&logo=Agile&logoColor=white)
-![](https://img.shields.io/badge/Adobe%20ITIL-31A8FF?style=for-the-badge&logo=Itil&logoColor=black)
+![](https://img.shields.io/badge/ITIL-31A8FF?style=for-the-badge&logo=Itil&logoColor=black)
 
 ![Vitorio GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=clebervitorio&theme=blue-green)
